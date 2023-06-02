@@ -20,16 +20,17 @@ const Navbar: React.FC<{}> = () => {
 
     const navigationAnchors: NavigationAnchor[] = [
         {
-            header: "Om meg",
-            url: "#omMeg",
+            header: "Portefølje",
+            url: "#portefølje",
         },
         {
             header: "Ferdigheter",
             url: "#ferdigheter",
         },
+        
         {
-            header: "Kontakt",
-            url: "#kontakt",
+            header: "Om meg",
+            url: "#omMeg",
         },
         {
             header: "Hjem",
